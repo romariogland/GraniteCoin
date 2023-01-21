@@ -1,3 +1,6 @@
+![bitcoin](https://user-images.githubusercontent.com/26179053/213864980-b48d6c88-bef4-4442-a8ed-cf5f7caa9664.png)
+
+
 GraniteCoin [X11] GRN
 ================================
 
