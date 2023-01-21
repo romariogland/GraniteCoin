@@ -1,4 +1,4 @@
-granite [X11]
+GraniteCoin [X11] GRN
 ================================
 
 Copyright (c) 2014, 2015, 2016, 2017, 2018 granite Developers
