@@ -38,7 +38,11 @@ Test Pool:
 --------
 
 URL: stratum+tcp://85.113.209.121:3533
+
 Worker: your GRN address
+
 Pass: c=GRN
+
 If use any miner: ./cpuminer -a x11 -o stratum+tcp://85.113.209.121:3533 -u GWYourGRNAddress -p c=GRN
+
 If wants, port 55555 is pool webui
