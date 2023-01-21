@@ -12,6 +12,7 @@ What is granite [GRN]?
 granite is a crypto-currency that is using the X11 Algorithm for energy efficient, CPU, GPU and ASIC mining utilizing Digishield block difficulty retargeting.
 
  - 2 minute block targets
+ - 120 confirmations for mined block
  - 65 million total coins
  - 100 coins per block
  - 10x 100,000 coin Bonus blocks!!
